@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vishwakumarv/codes/tree/master/0067-add-binary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishwakumarv/codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishwakumarv/codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Number Theory
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vishwakumarv/codes/tree/master/0067-add-binary) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vishwakumarv/codes/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vishwakumarv/codes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
@@ -78,9 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vishwakumarv/codes/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/vishwakumarv/codes/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vishwakumarv/codes/tree/master/0036-valid-sudoku) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vishwakumarv/codes/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
