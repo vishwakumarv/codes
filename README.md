@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vishwakumarv/codes/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/vishwakumarv/codes/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishwakumarv/codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -72,9 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vishwakumarv/codes/tree/master/0036-valid-sudoku) |
 | [1260-shift-2d-grid](https://github.com/vishwakumarv/codes/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/vishwakumarv/codes/tree/master/1260-shift-2d-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/vishwakumarv/codes/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
